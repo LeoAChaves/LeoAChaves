@@ -1,5 +1,7 @@
 ### Olá, eu sou o Leonardo Chaves 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-a-chaves/)](https://www.linkedin.com/in/leo-a-chaves/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

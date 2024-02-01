@@ -10,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<!--
  <div align="center">
   <a href="https://github.com/LeoAChaves">
   <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAChaves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -24,7 +23,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   ##
--->
+
 ![Snake animation](https://github.com/LeoAChaves/LeoAChaves/blob/output/github-contribution-grid-snake.svg)
  
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-a-chaves/)](https://www.linkedin.com/in/leo-a-chaves/)

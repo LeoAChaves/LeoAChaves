@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF5C00&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Leo+Chaves.;Desenvolvedor+Full+Stack;Apaixonado+por+Código;Sempre+aprendendo!" alt="Typing SVG" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Seu%20Nome&fontSize=50&animation=fadeIn)
 
 ## 👨‍💻 Sobre mim
 

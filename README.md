@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Leo%20A%20Chaves&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Leo%20Chaves&fontSize=50&animation=fadeIn)
 
 ## 👨‍💻 Sobre mim
 

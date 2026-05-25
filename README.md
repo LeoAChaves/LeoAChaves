@@ -17,7 +17,6 @@ Sou desenvolvedor com foco em **React** e **Node.js**. Adoro criar soluções qu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Highcharts](https://img.shields.io/badge/Highcharts-0081B4?style=for-the-badge&logo=highcharts&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend
@@ -43,10 +42,9 @@ Sou desenvolvedor com foco em **React** e **Node.js**. Adoro criar soluções qu
 ### 🌱 Em aprendizado
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AsyncPG](https://img.shields.io/badge/AsyncPG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B00?style=for-the-badge&logo=ai&logoColor=white)
-![AsyncPG](https://img.shields.io/badge/AsyncPG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Projetos em Destaque
 
